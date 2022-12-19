@@ -1,2 +1,5 @@
 # Simulation-Compiler
-Simulation for all Compiler steps such as (Tokenization,Parsing,Simulating code)
+Simulation custom compiler of the TINY programming language  consists of :
+- Tokenization
+- Parsing
+- Simulating code
